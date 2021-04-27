@@ -1,0 +1,3 @@
+gTTs
+cv2
+face_recognition
